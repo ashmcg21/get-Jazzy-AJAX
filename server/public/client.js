@@ -28,8 +28,7 @@ function onReady() {
                     <td>${song.title}</td>
                     <td>${song.artist}</td>
                 </tr>
-            `); 
+            `);
         }
     });
-    
 }
